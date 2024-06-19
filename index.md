@@ -1,1 +1,2 @@
-# Edit your file with headers
+# Yaktokat Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
